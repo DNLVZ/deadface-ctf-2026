@@ -10,6 +10,12 @@ Evidencia: Documentado en la sesión
 Herramientas: Lectura de memoria, búsqueda de cadenas y PowerShell
 
 
+## Código histórico disponible
+
+[scan_memory.py](../../scripts/originales/scan_memory.py) · [scan-memory.ps1](../../scripts/originales/scan-memory.ps1) · [Entradas y límites](../../scripts/originales/README.md).
+
+Estos archivos conservan el análisis histórico y no implican una nueva reproducción completa del reto.
+
 ## Procedimiento
 
 1. Verificar el hash de memory.7z y extraer memory.raw en un disco con espacio suficiente. El volcado
