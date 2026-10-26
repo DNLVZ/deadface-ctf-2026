@@ -64,3 +64,14 @@ Copias originales sin modificar del reconocimiento de Exfiltration. Estos hashes
 | [deadface-2026-first-blood.png](../assets/deadface-2026-first-blood.png) | 386,619 | `34eb366bd1664fcdf12c75abbdeac1df4843466fe63d1998f7274eec0a01ba08` |
 
 [Detalle del reconocimiento y verificación consultada](../docs/first-blood-exfiltration.md).
+
+## Resultados oficiales comprobados el 26 de octubre de 2026
+
+[Fuentes, alcance y resultados](../docs/resultados-oficiales.md). Hashes calculados de las capturas y transcripciones incorporadas:
+
+| Archivo | Bytes | SHA-256 |
+| --- | ---: | --- |
+| [resultado-oficial-r00tless.png](../assets/resultado-oficial-r00tless.png) | 36,358 | `0c6f680612ab7b5642b9453770b6588039e01b44f24949f0cdbda4a99ff61736` |
+| [marcador-r00tless.png](../assets/marcador-r00tless.png) | 36,090 | `90104e3c67f3fcc6adeb1f102692a79889e999231b846bd2a7f3de30c8ff6e4e` |
+| [resoluciones-oficiales.csv](../evidencias/resoluciones-oficiales.csv) | 6,380 | `f8e0f90ce4c1645ad811d77bdee0865a9d243878ea7400d729d8ed9d6a1a5e48` |
+| [resultados-oficiales.json](../evidencias/resultados-oficiales.json) | 694 | `03deba8481c9285acb1e06d9c64f11faa6fa0a25fdb9553d8899787f7cbb5bbe` |

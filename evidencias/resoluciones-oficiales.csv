@@ -1,0 +1,65 @@
+reto,categoria,puntos,fecha_hora_mostrada,writeup
+Speak Friend and Enter,Web,200,"October 18th, 4:03:55 PM",
+False Telemetry,De Monne Breach,250,"October 18th, 3:32:40 PM",writeups/de-monne-breach/false-telemetry.md
+Challenge Accepted,De Monne Breach,100,"October 18th, 3:31:23 PM",writeups/de-monne-breach/challenge-accepted.md
+Borrowed Script,De Monne Breach,100,"October 18th, 3:29:41 PM",writeups/de-monne-breach/borrowed-script.md
+Back to Basics,Aurora Patient Zero,15,"October 18th, 3:24:08 PM",writeups/aurora-patient-zero/back-to-basics.md
+SQL Skillz,Aurora Patient Zero,50,"October 18th, 3:23:12 PM",writeups/aurora-patient-zero/sql-skillz.md
+Down the Rabbit Hole,Aurora Patient Zero,10,"October 18th, 3:22:33 PM",writeups/aurora-patient-zero/down-the-rabbit-hole.md
+Info Leaks,Aurora Patient Zero,25,"October 18th, 3:21:49 PM",writeups/aurora-patient-zero/info-leaks.md
+DOOM,Bonus,25,"October 18th, 3:03:17 PM",
+Return to Sender,Traffic Analysis,80,"October 18th, 2:57:01 PM",writeups/traffic-analysis/return-to-sender.md
+Twilight Zone Transfer,Traffic Analysis,50,"October 18th, 2:55:03 PM",writeups/traffic-analysis/twilight-zone-transfer.md
+Cereal Killer 03,Reverse Engineering,500,"October 18th, 2:53:14 PM",writeups/reverse-engineering/cereal-killer-03.md
+Cereal Killer 04,Reverse Engineering,250,"October 18th, 2:50:55 PM",writeups/reverse-engineering/cereal-killer-04.md
+Keep Digging,Steganography,100,"October 18th, 2:43:14 PM",
+Second Shift,Cryptography,90,"October 18th, 2:40:11 PM",writeups/cryptography/second-shift.md
+Digital Design,Cryptography,100,"October 18th, 2:37:38 PM",writeups/cryptography/digital-design.md
+Chess Key,Cryptography,200,"October 18th, 2:32:54 PM",writeups/cryptography/chess-key.md
+X Marks the Spot,Cryptography,30,"October 18th, 2:05:13 PM",writeups/cryptography/x-marks-the-spot.md
+Factory Settings,Brain Scans,25,"October 18th, 1:11:44 AM",writeups/brain-scans/factory-settings.md
+Cache Money,De Monne Breach,150,"October 18th, 1:01:41 AM",writeups/de-monne-breach/cache-money.md
+Public Offering,De Monne Breach,75,"October 18th, 1:01:12 AM",writeups/de-monne-breach/public-offering.md
+Crown Jewels,De Monne Breach,75,"October 18th, 1:00:34 AM",writeups/de-monne-breach/crown-jewels.md
+Hidden in Plain Task,De Monne Breach,75,"October 18th, 12:56:57 AM",writeups/de-monne-breach/hidden-in-plain-task.md
+The Typo That Bit,De Monne Breach,75,"October 18th, 12:46:09 AM",writeups/de-monne-breach/the-typo-that-bit.md
+The Workstation in the Middle,De Monne Breach,40,"October 18th, 12:45:43 AM",writeups/de-monne-breach/the-workstation-in-the-middle.md
+Name to a Face,De Monne Breach,10,"October 18th, 12:45:14 AM",writeups/de-monne-breach/name-to-a-face.md
+Uninvited Guest,De Monne Breach,25,"October 18th, 12:44:27 AM",writeups/de-monne-breach/uninvited-guest.md
+You Wouldn't Git It,OSINT,125,"October 17th, 8:07:36 PM",writeups/osint/you-wouldn-t-git-it.md
+A Pirate's Life for Me: Part 1,Traffic Analysis,25,"October 17th, 7:46:31 PM",writeups/traffic-analysis/a-pirate-s-life-for-me-part-1.md
+Hooked,Forensics,25,"October 17th, 7:28:14 PM",writeups/forensics/hooked.md
+It But A Wee Bit Reverse,Reverse Engineering,15,"October 17th, 7:25:33 PM",writeups/reverse-engineering/it-but-a-wee-bit-reverse.md
+Hard Kept Secrets,De Monne Slayer,20,"October 17th, 7:15:27 PM",writeups/de-monne-slayer/hard-kept-secrets.md
+Second Opinion,Brain Scans,50,"October 17th, 6:40:14 PM",writeups/brain-scans/second-opinion.md
+Bedside Manner,Brain Scans,15,"October 17th, 6:37:27 PM",writeups/brain-scans/bedside-manner.md
+The Original Reading,Database,70,"October 17th, 6:31:44 PM",writeups/database/the-original-reading.md
+File Dump 01,Steganography,10,"October 17th, 6:28:31 PM",
+DECODE-DLE,Cryptography,25,"October 17th, 6:23:47 PM",writeups/cryptography/decode-dle.md
+Cereal Killer 02,Reverse Engineering,150,"October 17th, 6:22:11 PM",writeups/reverse-engineering/cereal-killer-02.md
+Cereal Killer 01,Reverse Engineering,50,"October 17th, 6:20:42 PM",writeups/reverse-engineering/cereal-killer-01.md
+Heavy Hand,Database,100,"October 17th, 6:16:24 PM",writeups/database/heavy-hand.md
+The Vibes Are Freaking Me Out,OSINT,75,"October 17th, 6:14:35 PM",writeups/osint/the-vibes-are-freaking-me-out.md
+Exfiltration,Steganography,75,"October 17th, 6:01:52 PM",writeups/steganography/exfiltration.md
+Headshot,Steganography,10,"October 17th, 4:24:12 PM",writeups/steganography/headshot.md
+Prying Eyes,Database,55,"October 17th, 3:55:56 PM",writeups/database/prying-eyes.md
+Alice and Bob Would Like a Word,OSINT,75,"October 17th, 3:50:02 PM",writeups/osint/alice-and-bob-would-like-a-word.md
+Ghost of Squares Past,OSINT,150,"October 17th, 3:39:04 PM",writeups/osint/ghost-of-squares-past.md
+Signals from the Skull,Brain Scans,300,"October 17th, 3:32:29 PM",
+Keypad Oracle,Mobile,200,"October 17th, 3:29:23 PM",writeups/mobile/keypad-oracle.md
+Don't Leave Me Hanging,Traffic Analysis,500,"October 17th, 3:22:34 PM",writeups/traffic-analysis/don-t-leave-me-hanging.md
+Who Goes There?,De Monne Breach,25,"October 17th, 3:10:19 PM",
+Art Heist: The Forgery,Forensics,25,"October 17th, 1:44:11 PM",writeups/forensics/art-heist-the-forgery.md
+Locked... or Not?,Mobile,150,"October 17th, 12:32:44 PM",writeups/mobile/locked-or-not.md
+Bad Guys Be Bad,Traffic Analysis,350,"October 17th, 12:30:47 PM",
+Data Go Brrrrr,Traffic Analysis,25,"October 17th, 12:28:08 PM",writeups/traffic-analysis/data-go-brrrrr.md
+Car Crash,OSINT,50,"October 17th, 12:26:22 PM",writeups/osint/car-crash.md
+Chatty Cathy,OSINT,15,"October 17th, 12:23:23 PM",writeups/osint/chatty-cathy.md
+Schedule of Concern,Database,20,"October 17th, 12:16:57 PM",writeups/database/schedule-of-concern.md
+Admitted Under Another Name,Database,15,"October 17th, 12:09:51 PM",writeups/database/admitted-under-another-name.md
+Conduct Unbecoming,Steganography,75,"October 17th, 12:00:52 PM",writeups/steganography/conduct-unbecoming.md
+Hidden Loot Box,Steganography,15,"October 17th, 11:56:37 AM",writeups/steganography/hidden-loot-box.md
+Infrequent Emojis,Cryptography,50,"October 17th, 11:51:42 AM",writeups/cryptography/infrequent-emojis.md
+Hail Caesar,Cryptography,5,"October 17th, 11:39:43 AM",writeups/cryptography/hail-caesar.md
+Starter,Miscellaneous,1,"October 17th, 11:31:47 AM",
+AI Rule,Miscellaneous,0,"October 17th, 11:30:19 AM",
