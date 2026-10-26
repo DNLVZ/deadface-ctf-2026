@@ -8,13 +8,22 @@ Mi objetivo al participar fue aprender. Aquí documento tanto los hallazgos que 
 
 **[Leer la bitácora en PDF](docs/bitacora-tecnica.pdf)** · **[Certificado de participación](docs/certificado-deadface-2026.pdf)** · **[Explorar los writeups](writeups/README.md)** · **[Ver el catálogo](catalogo/README.md)** · **[Método de trabajo](docs/metodologia.md)** · **[Ejemplos ejecutables](scripts/README.md)**
 
-## First Blood — Exfiltration
+## Resultado de mi primer CTF
 
-Recibí el reconocimiento oficial **DEADFACE CTF 2026 First Blood** de Cyber Hacktics por **Exfiltration**, con fecha del **17 de octubre de 2026**.
+**Puesto 173 de 1,072 equipos en el marcador · 5,666 puntos · participación individual como R00tless / jesusd.vb.**
 
-<p align="center"><img src="assets/deadface-2026-first-blood.png" alt="Insignia DEADFACE CTF 2026 First Blood" width="220"></p>
+La plataforma oficial registra **64 entradas aceptadas**: 62 fuera de Miscellaneous, más Starter y AI Rule. [Ver clasificación, capturas, desglose y lista completa](docs/resultados-oficiales.md).
 
-**[Reconocimiento y verificación](docs/first-blood-exfiltration.md)** · **[Certificado en PDF](docs/certificado-first-blood-exfiltration.pdf)** · **[Writeup de Exfiltration](writeups/steganography/exfiltration.md)**
+## Insignias y certificados
+
+<p align="center"><img src="assets/deadface-2026-competitor.png" alt="Insignia DEADFACE CTF 2026 Competitor" width="220"> <img src="assets/deadface-2026-first-blood.png" alt="Insignia DEADFACE CTF 2026 First Blood" width="220"></p>
+
+| Reconocimiento de Cyber Hacktics | Certificado | Verificación |
+| --- | --- | --- |
+| **DEADFACE CTF 2026 Competitor** — participación activa | [PDF original](docs/certificado-deadface-2026.pdf) | [Credforge](https://credforge.app/credentials/911f73ca-13a2-4a86-b9d8-fb988eb32354) |
+| **DEADFACE CTF 2026 First Blood** — Exfiltration, 17 de octubre de 2026 | [PDF original](docs/certificado-first-blood-exfiltration.pdf) | [Credforge](https://credforge.app/credentials/41ef1b54-69ac-4135-a6b7-ae6b6fa1a3e9) |
+
+[Detalle del First Blood y verificación consultada](docs/first-blood-exfiltration.md) · [Writeup de Exfiltration](writeups/steganography/exfiltration.md)
 
 ## Qué encontrarás
 
@@ -26,7 +35,7 @@ Recibí el reconocimiento oficial **DEADFACE CTF 2026 First Blood** de Cyber Hac
 | **23 fichas documentadas** | Resultado y recorrido conservados, sin repetir toda la cadena |
 | **20 fichas parciales** | Resultado histórico con entradas o pasos pendientes |
 
-Las 57 fichas **no equivalen a 57 retos aceptados oficialmente**. La clasificación refleja la evidencia de la bitácora, editada el 19 de octubre de 2026. Esta publicación no implica una nueva validación de todos los casos.
+Las 57 fichas **no equivalen a 57 retos aceptados oficialmente**. La clasificación refleja la evidencia de la bitácora, editada el 19 de octubre de 2026. La [comprobación posterior en la plataforma oficial](docs/resultados-oficiales.md) se documenta por separado de esos estados históricos.
 
 ## Por dónde empezar
 
@@ -76,7 +85,7 @@ Una bandera aislada no conserva el aprendizaje. Necesito guardar las entradas, l
 
 ## English overview
 
-Personal learning portfolio from my first DEADFACE CTF, entered solo as **jesusd.vb**. It contains **57 technical writeups** and a **93-challenge catalog**, with explicit evidence states and reproducibility limits. Documentation is in Spanish. Counts describe recovered records, not an official accepted-solve total.
+Personal learning portfolio from my first DEADFACE CTF, entered solo as **jesusd.vb**. It contains **57 technical writeups** and a **93-challenge catalog**, with explicit evidence states and reproducibility limits. Official results checked on October 26: **173rd of 1,072 ranked teams**, **5,666 points**, and **64 accepted entries** (including Starter and AI Rule), plus **First Blood for Exfiltration**. Documentation is in Spanish; historical writeup evidence states remain separate from accepted-solve records.
 
 ---
 
