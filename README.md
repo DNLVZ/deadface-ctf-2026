@@ -60,7 +60,7 @@ python scripts/hail_caesar.py
 python scripts/x_marks_the_spot.py
 ```
 
-Estos dos ejemplos son reconstrucciones didácticas preparadas para esta publicación. También se incluyen [cinco scripts históricos](scripts/originales/README.md), conservados sin cambios, y la configuración necesaria para reproducir Keypad Oracle. Los volcados, ejecutables y respaldos completos no se distribuyen en el repositorio.
+Estos dos ejemplos son reconstrucciones didácticas preparadas para esta publicación. También se incluyen [diez scripts históricos](scripts/originales/README.md), conservados sin cambios, y la configuración necesaria para reproducir Keypad Oracle. Los volcados, ejecutables y respaldos completos no se distribuyen en el repositorio.
 
 ## Lo que me dejó esta experiencia
 
