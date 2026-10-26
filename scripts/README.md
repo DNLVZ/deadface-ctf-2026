@@ -20,5 +20,8 @@ Salida esperada: el primer ejemplo muestra el nombre Fetch; el segundo encuentra
 
 Los fragmentos de otros writeups pueden necesitar archivos del reto, valores recuperados en fichas previas o constantes que no están disponibles. Cada ficha explica esas dependencias.
 
-Los scripts históricos citados en la bitácora —como `solve_keypad.py`, `decrypt_calls.ps1` o `decode_srtp.ps1`— no se incluyen en esta edición pública.
+## Scripts históricos recuperados
 
+Se incluyen [cinco originales y su inventario](originales/README.md), conservados sin cambios. Se recuperaron selectivamente como archivos de texto de las partes 001 y 002 del respaldo. La parte 003, marcada como infectada por Drive, no se descargó.
+
+El original de Keypad Oracle y su configuración se ejecutaron localmente: el PIN `3719` produjo `deadface{your-pin-is-valid}`. Los cuatro scripts de tráfico se revisaron y se comprobaron sintácticamente, pero no se ejecutó de nuevo su cadena completa con PCAP y secretos de sesión.
