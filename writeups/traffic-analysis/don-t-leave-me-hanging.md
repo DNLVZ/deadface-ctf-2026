@@ -37,6 +37,10 @@ Herramientas: PCAP, archivo de diagnóstico PBX, TLS/SRTP y análisis DTMF
      localizar en qué fase aparece un error.
 
 
+## Scripts originales disponibles
+
+Se publican [analyze_pcap.ps1](../../scripts/originales/analyze_pcap.ps1), [decrypt_calls.ps1](../../scripts/originales/decrypt_calls.ps1), [decode_srtp.ps1](../../scripts/originales/decode_srtp.ps1) y [scan_tones.ps1](../../scripts/originales/scan_tones.ps1), junto con [sus dependencias y límites](../../scripts/originales/README.md). No se ha repetido la cadena completa en esta publicación.
+
 ## Comandos o lógica reproducible
 
 ```text
