@@ -31,6 +31,12 @@ Herramientas: Python, JSON, análisis de binario y enumeración local
      original reprodujo deadface{your-pin-is-valid}.
 
 
+## Solucionador original disponible
+
+[Script original](../../scripts/originales/solve_keypad.py) · [Configuración de entrada](../../scripts/originales/keypad/Keypad-Oracle.app/KeypadConfig.json) · [Instrucciones y procedencia](../../scripts/originales/README.md)
+
+La repetición local durante la publicación produjo `(3, 7, 1, 9) 1 b'deadface{your-pin-is-valid}'`. Esta comprobación no envió una respuesta nueva a CTFd.
+
 ## Comandos o lógica reproducible
 
 ```text
