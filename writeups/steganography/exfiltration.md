@@ -10,6 +10,14 @@ Evidencia: Documentado en la sesión
 Herramientas: Metadatos EXIF, Python y conversión hexadecimal
 
 
+## Reconocimiento oficial posterior
+
+Cyber Hacktics otorgó **DEADFACE CTF 2026 First Blood** a **jesusd.vb (R00tless): Exfiltration**, con fecha del 17 de octubre de 2026. La notificación llegó el 25 de octubre y se incorporó a este portafolio el 26.
+
+[Consultar certificado, criterio y verificación](../../docs/first-blood-exfiltration.md).
+
+El estado **Documentado** se conserva para describir el procedimiento histórico. El reconocimiento oficial acredita por separado el First Blood, sin afirmar una nueva reproducción local del reto.
+
 ## Procedimiento
 
 1. Extraer exfiltration.zip en una carpeta de trabajo y revisar los metadatos de todas las imágenes, no solo la
