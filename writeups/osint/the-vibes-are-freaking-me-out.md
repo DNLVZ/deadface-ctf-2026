@@ -10,6 +10,12 @@ Evidencia: Documentado en la sesión
 Herramientas: Navegador, repositorio HIPS, Python y Base64
 
 
+## Código histórico disponible
+
+[decode_hips.py](../../scripts/originales/decode_hips.py) · [Entradas y límites](../../scripts/originales/README.md).
+
+Estos archivos conservan el análisis histórico y no implican una nueva reproducción completa del reto.
+
 ## Procedimiento
 
 1. Seguir la pista pública que conecta al personaje b1tfr34k con HIPS. Examinar el repositorio y sus archivos,
