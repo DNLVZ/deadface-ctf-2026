@@ -26,10 +26,10 @@ Los 21 casos sin registro permanecen en el catálogo. No se redactan soluciones 
 
 ## Mejoras del archivo público
 
-- El certificado individual, la bitácora, la insignia y cinco scripts históricos ya están adjuntos.
+- El certificado individual, la bitácora, la insignia y los diez scripts históricos ya están adjuntos.
 - Añadir capturas originales seleccionadas y asociadas a la ficha correcta.
 - Recuperar consultas y constantes donde la ficha es parcial.
-- Recuperar `inspect_dex.py`, `decode_hips.py`, `scan_pirate.py`, `scan_memory.py` y `scan-memory.ps1`. Están en la parte del respaldo que Drive marca como infectada; no se han extraído ni publicado.
+- Los diez scripts citados en la bitácora ya se recuperaron y están publicados con su inventario de integridad. Las mejoras pendientes se refieren a evidencia de los retos, no a archivos de código sin subir.
 - Registrar la evidencia de aceptación cuando exista.
 
 Fuente: bitácora técnica personal, páginas 69 a 71.

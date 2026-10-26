@@ -13,10 +13,10 @@ El catálogo transcribe los 93 retos de las páginas 9 a 11. Las puntuaciones co
 - Fichas técnicas en Markdown, catálogo CSV e índices.
 - Metodología, herramientas, reflexión e inventario de hashes de referencia.
 - Dos ejemplos autocontenidos de criptografía, reconstruidos para publicación.
-- Cinco scripts históricos conservados byte por byte, su inventario SHA-256 y la configuración de Keypad Oracle.
+- Diez scripts históricos conservados byte por byte, su inventario SHA-256 y la configuración de Keypad Oracle.
 - Certificado individual original de participación.
 
-Se adjuntan la [bitácora original en PDF](bitacora-tecnica.pdf), la imagen original de la insignia y dos imágenes de criptografía seleccionadas del paquete de fuentes. Los cinco scripts enlazados en [su inventario](../scripts/originales/README.md) están disponibles aquí. El resto de originales mencionados en las fichas permanece en el respaldo personal; mencionarlos no significa que esté descargable desde este repositorio.
+Se adjuntan la [bitácora original en PDF](bitacora-tecnica.pdf), la imagen original de la insignia y dos imágenes de criptografía seleccionadas del paquete de fuentes. Los diez scripts enlazados en [su inventario](../scripts/originales/README.md) están disponibles aquí. El resto de originales mencionados en las fichas permanece en el respaldo personal; mencionarlos no significa que esté descargable desde este repositorio.
 
 El PDF se conserva sin modificar y contiene una referencia al respaldo privado. Sus permisos de acceso no se han cambiado. No se distribuyen sesiones completas, volcados de memoria, paquetes de herramientas ni ejecutables de los retos.
 
