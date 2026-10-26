@@ -49,3 +49,7 @@ Get-FileHash -Algorithm SHA256 -LiteralPath .\secondshift.zip
 ```
 
 Un hash coincidente comprueba identidad de bytes con la referencia. No acredita por sí solo que un archivo sea seguro ni valida una solución.
+
+## Comprobaciones de esta publicación
+
+El certificado individual adjunto se contrastó con el SHA-256 histórico y coincidió. Los cinco scripts originales y la configuración recuperada tienen [un inventario independiente](../scripts/originales/inventario.json). El solucionador de Keypad Oracle reprodujo la salida esperada; las pruebas de los dos ejemplos reconstruidos también produjeron sus banderas y completaron su transformación inversa. Estas comprobaciones no representan nuevas aceptaciones en CTFd.
