@@ -53,3 +53,14 @@ Un hash coincidente comprueba identidad de bytes con la referencia. No acredita 
 ## Comprobaciones de esta publicación
 
 El certificado individual adjunto se contrastó con el SHA-256 histórico y coincidió. Los diez scripts originales y la configuración recuperada tienen [un inventario independiente](../scripts/originales/inventario.json). El solucionador de Keypad Oracle reprodujo la salida esperada; las pruebas de los dos ejemplos reconstruidos también produjeron sus banderas y completaron su transformación inversa. Estas comprobaciones no representan nuevas aceptaciones en CTFd.
+
+## Evidencia First Blood incorporada el 26 de octubre de 2026
+
+Copias originales sin modificar del reconocimiento de Exfiltration. Estos hashes se calcularon sobre los archivos adjuntos a esta publicación.
+
+| Archivo | Bytes | SHA-256 |
+| --- | ---: | --- |
+| [certificado-first-blood-exfiltration.pdf](../docs/certificado-first-blood-exfiltration.pdf) | 238,286 | `e45f435fcc82de6a8e5915c87406816b6fe2e2194e16818b28c81a7cb533a603` |
+| [deadface-2026-first-blood.png](../assets/deadface-2026-first-blood.png) | 386,619 | `34eb366bd1664fcdf12c75abbdeac1df4843466fe63d1998f7274eec0a01ba08` |
+
+[Detalle del reconocimiento y verificación consultada](../docs/first-blood-exfiltration.md).
