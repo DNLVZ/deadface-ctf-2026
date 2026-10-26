@@ -34,5 +34,35 @@
     "sha256": "5d9445a253b51e2f8ba9239b5e7b0188e9e03309483151f93ad3f64721d999c5",
     "bytes": 690,
     "source_archive_path": "2026-10-17/new-chat/keypad/Keypad-Oracle.app/KeypadConfig.json"
+  },
+  {
+    "file": "decode_hips.py",
+    "sha256": "d6b257f9ed0b957a570331be61d97dcdc254e84e73c7f907c2f528bca943a4a5",
+    "bytes": 1326,
+    "source_archive_path": "2026-10-17/new-chat-10/decode_hips.py"
+  },
+  {
+    "file": "inspect_dex.py",
+    "sha256": "524787d461db069e0969060d04e1276b00d656e32b60c8dccd315f8ec953f8e4",
+    "bytes": 1507,
+    "source_archive_path": "2026-10-17/new-chat-10/inspect_dex.py"
+  },
+  {
+    "file": "scan_pirate.py",
+    "sha256": "402687a599e290c557705ad4448f07e131d4c87c0e7149f59f3f86fb2be5614b",
+    "bytes": 1777,
+    "source_archive_path": "2026-10-17/new-chat-10/scan_pirate.py"
+  },
+  {
+    "file": "scan-memory.ps1",
+    "sha256": "45f7091f489dd7b0c4d2014c3bf6eaf3d564ef39b9bc70bba2c2aa98c58ce938",
+    "bytes": 1591,
+    "source_archive_path": "2026-10-17/new-chat-5/scan-memory.ps1"
+  },
+  {
+    "file": "scan_memory.py",
+    "sha256": "bfc420fb78989ea399281aed980c990eef4adb95277966fd75e5cf29b2e0101a",
+    "bytes": 417,
+    "source_archive_path": "2026-10-18/new-chat-5/scan_memory.py"
   }
 ]

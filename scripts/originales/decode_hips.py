@@ -1,0 +1,14 @@
+import base64,codecs,json
+v=json.loads("{\"CSN_BACKDOOR\":\"2skakzkWyu9ECLPFyqBsunG8KnhWmAJfCcC6Lr2A3PJ4uvQEiFEwecpt6cssbCUhkmAaN3efuX1hZ489eFwWNnLRSWaEuQKiCcTU9xev3i39Ayhk8o8Uen\",\"TOKEN_TOKEN\":\"SVJKQ0FWQ1BKVVFFWVJLSkVCR0VTVlNGS01RRTZUUkFLNUVWSVNDSkpZUUVDVENNRUJIVU1JQ1ZLTT09PT09PQ==\",\"PASSCODE\":\"MWMlJ04yRFInQjJfbTlNMilAME0xR0NhQzJEZDBDMkU8XVAxLChYQjJEbUJJMkZCQWkyYFdXSTJEWzZcMkZdU2wxLChYSTJGXVZfMSwoVUYyYDNOUzJgITNDMmAhP08yRl1WXzJGQkFaMSwoWEQyRG1CWzJGQjVSMkUzVFQyRks7UzJgKkVQMkRJLUkxLChVSDJFITxFMmBXY2MyYDM/RTJFIUhSMkUqUVAyX205SzEsKFhEMkUzVFQyYCEzQzJGXVZfMmAo\",\"STATEMENT\":\"KNJUE2SZK42G4ZCDIJUVUV3YOBNFQWTMJFEFE322LBVWOZBSIZ2WIQ2CGFRXSQRQMJ4UE3CZLBIWOYKHHF4WGMSWORNFORRQJFDUM5K2INBGSWSTIJVGCR3MONREGQTILFWTSMLEINBHAZCBHU6Q====\"}")
+for k,s in v.items():
+ print(k)
+ for name,fn in [('b64',base64.b64decode),('b32',base64.b32decode),('b85',base64.b85decode),('a85',base64.a85decode)]:
+  try:print(name,fn(s))
+  except Exception:pass
+print('TOKEN',base64.b32decode(base64.b64decode(v['TOKEN_TOKEN'])))
+print('PASS',base64.a85decode(base64.b64decode(v['PASSCODE'])))
+print('STATEMENT',base64.b64decode(base64.b32decode(v['STATEMENT'])))
+alphabet='123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+n=0
+for c in v['CSN_BACKDOOR']:n=n*58+alphabet.index(c)
+print('CSN',n.to_bytes((n.bit_length()+7)//8,'big'))
