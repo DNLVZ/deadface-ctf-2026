@@ -6,7 +6,7 @@ Soy **Jesús Daniel Vásquez Bonilla**, estudiante de Seguridad Informática en 
 
 Mi objetivo al participar fue aprender. Aquí documento tanto los hallazgos que pude comprobar como los casos donde todavía falta evidencia para reproducir todo el recorrido.
 
-**[Leer la bitácora en PDF](docs/bitacora-tecnica.pdf)** · **[Explorar los writeups](writeups/README.md)** · **[Ver el catálogo](catalogo/README.md)** · **[Método de trabajo](docs/metodologia.md)** · **[Ejemplos ejecutables](scripts/README.md)**
+**[Leer la bitácora en PDF](docs/bitacora-tecnica.pdf)** · **[Certificado de participación](docs/certificado-deadface-2026.pdf)** · **[Explorar los writeups](writeups/README.md)** · **[Ver el catálogo](catalogo/README.md)** · **[Método de trabajo](docs/metodologia.md)** · **[Ejemplos ejecutables](scripts/README.md)**
 
 ## Qué encontrarás
 
@@ -60,7 +60,7 @@ python scripts/hail_caesar.py
 python scripts/x_marks_the_spot.py
 ```
 
-Son reconstrucciones didácticas preparadas para esta publicación. Los originales de los retos, volcados, ejecutables y respaldos privados no se distribuyen en el repositorio.
+Estos dos ejemplos son reconstrucciones didácticas preparadas para esta publicación. También se incluyen [cinco scripts históricos](scripts/originales/README.md), conservados sin cambios, y la configuración necesaria para reproducir Keypad Oracle. Los volcados, ejecutables y respaldos completos no se distribuyen en el repositorio.
 
 ## Lo que me dejó esta experiencia
 
