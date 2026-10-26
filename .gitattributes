@@ -3,3 +3,4 @@
 *.py text eol=lf
 *.csv text eol=lf
 *.svg text eol=lf
+scripts/originales/** -text
