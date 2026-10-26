@@ -10,6 +10,12 @@ Evidencia: Documentado en la sesión
 Herramientas: Wireshark y pirateslife.pcap
 
 
+## Código histórico disponible
+
+[scan_pirate.py](../../scripts/originales/scan_pirate.py) · [Entradas y límites](../../scripts/originales/README.md).
+
+Estos archivos conservan el análisis histórico y no implican una nueva reproducción completa del reto.
+
 ## Procedimiento
 
 1. Verificar pirateslife.7z, extraer pirateslife.pcap y abrir la captura. La sesión conservó un script de
