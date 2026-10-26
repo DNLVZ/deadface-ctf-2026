@@ -4,6 +4,8 @@
 
 57 fichas adaptadas de la bitácora del 19 de octubre de 2026. Cada ficha conserva el estado y sus límites de reproducción.
 
+La plataforma registra por separado [64 entradas aceptadas y 5,666 puntos](../docs/resultados-oficiales.md), comprobados el 26 de octubre. La aceptación oficial y el estado de reproducción de una ficha describen aspectos distintos.
+
 ## Aurora Patient Zero
 
 | Reto | Puntos | Estado |
