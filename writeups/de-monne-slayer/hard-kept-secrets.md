@@ -10,6 +10,12 @@ Evidencia: Documentado en la sesión
 Herramientas: Análisis estático APK, classes.dex y búsqueda de cadenas
 
 
+## Código histórico disponible
+
+[inspect_dex.py](../../scripts/originales/inspect_dex.py) · [Entradas y límites](../../scripts/originales/README.md).
+
+Estos archivos conservan el análisis histórico y no implican una nueva reproducción completa del reto.
+
 ## Procedimiento
 
 1. Abrir app-release.zip y localizar el APK. Un APK es un contenedor ZIP; puede inspeccionarse sin instalarlo.
