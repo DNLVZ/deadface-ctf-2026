@@ -8,6 +8,14 @@ Mi objetivo al participar fue aprender. Aquí documento tanto los hallazgos que 
 
 **[Leer la bitácora en PDF](docs/bitacora-tecnica.pdf)** · **[Certificado de participación](docs/certificado-deadface-2026.pdf)** · **[Explorar los writeups](writeups/README.md)** · **[Ver el catálogo](catalogo/README.md)** · **[Método de trabajo](docs/metodologia.md)** · **[Ejemplos ejecutables](scripts/README.md)**
 
+## First Blood — Exfiltration
+
+Recibí el reconocimiento oficial **DEADFACE CTF 2026 First Blood** de Cyber Hacktics por **Exfiltration**, con fecha del **17 de octubre de 2026**.
+
+<p align="center"><img src="assets/deadface-2026-first-blood.png" alt="Insignia DEADFACE CTF 2026 First Blood" width="220"></p>
+
+**[Reconocimiento y verificación](docs/first-blood-exfiltration.md)** · **[Certificado en PDF](docs/certificado-first-blood-exfiltration.pdf)** · **[Writeup de Exfiltration](writeups/steganography/exfiltration.md)**
+
 ## Qué encontrarás
 
 | Contenido | Alcance |
