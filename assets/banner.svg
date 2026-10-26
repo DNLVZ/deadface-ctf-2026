@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">DEADFACE CTF 2026 — Bitácora técnica</title><desc id="desc">Operation Kingmaker. Jesús Daniel Vásquez Bonilla. 57 fichas técnicas, 93 retos catalogados.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#22131d"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="380" rx="20" fill="url(#bg)"/><rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+<path d="M0 22H1200" stroke="#f05263" stroke-width="3"/><rect x="52" y="56" width="5" height="198" fill="#f05263"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="80" y="83" fill="#f58c96" font-size="15" letter-spacing="5">OPERATION KINGMAKER / LEARNING JOURNAL</text>
+<text x="76" y="155" fill="#f4f5f7" font-size="58" font-weight="700">DEADFACE CTF 2026</text>
+<text x="80" y="205" fill="#bac1cc" font-size="24">Mi primer CTF. Un recorrido documentado.</text>
+<text x="80" y="246" fill="#8e99a8" font-size="19">Jesús Daniel Vásquez Bonilla · jesusd.vb</text>
+<path d="M80 280H1120" stroke="#3e2c37"/>
+<text x="80" y="329" fill="#f4f5f7" font-size="28" font-weight="700">57</text><text x="127" y="329" fill="#b4bdc9" font-size="17">fichas técnicas</text>
+<text x="362" y="329" fill="#f4f5f7" font-size="28" font-weight="700">93</text><text x="409" y="329" fill="#b4bdc9" font-size="17">retos catalogados</text>
+<text x="700" y="329" fill="#f58c96" font-size="17">EVIDENCIA · MÉTODO · APRENDIZAJE</text></g></svg>
