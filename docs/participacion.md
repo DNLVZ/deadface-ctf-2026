@@ -12,7 +12,7 @@ La bitácora conserva la referencia a una credencial **DEADFACE CTF 2026 Competi
 
 La publicación no incluye una nueva validación criptográfica de la credencial.
 
-Al terminar relaté haber quedado dentro del top 200. La bitácora no contiene una captura del puesto exacto, el puntaje ni el total de equipos, por lo que este repositorio no utiliza esa referencia como una clasificación oficial verificada.
+El 26 de octubre de 2026 comprobé mi resultado en la plataforma oficial: **puesto 173 de 1,072 equipos clasificados y 5,666 puntos**, con **64 entradas aceptadas** (62 fuera de Miscellaneous, más Starter y AI Rule). El equipo **R00tless** muestra un solo integrante, **jesusd.vb**, con la totalidad del puntaje. El [registro de resultados oficiales](resultados-oficiales.md) conserva las capturas, fuentes y el desglose. Esta consulta sustituye la referencia histórica sin comprobar al «top 200».
 
 ## Reconocimiento First Blood
 

@@ -41,3 +41,7 @@ Estas referencias permiten estudiar los formatos; no son pruebas de resolución 
 Los nombres, pacientes, identificadores, cuentas, rutas, contraseñas de fábrica e indicadores incluidos en los writeups pertenecen al escenario ficticio del CTF. Se conservan como datos de análisis. Los dominios e IP históricos no son objetivos para nuevas pruebas.
 
 Fuente: bitácora técnica personal, páginas 2, 7, 71 y 78.
+
+## Evidencia del marcador y resoluciones
+
+La consulta del 26 de octubre de 2026 a los perfiles oficiales y al marcador permitió documentar puesto, puntaje, único miembro y 64 entradas aceptadas. Se adjuntan dos capturas, la transcripción CSV y un resumen JSON. El [registro de resultados](resultados-oficiales.md) explica el denominador del puesto y distingue las aceptaciones de las 57 fichas históricas.
