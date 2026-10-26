@@ -1,0 +1,38 @@
+[
+  {
+    "file": "analyze_pcap.ps1",
+    "sha256": "e2a23e5fac0d32de253c306c50d461ad5361ccb756152eadffad521bb67c79ab",
+    "bytes": 1610,
+    "source_archive_path": "2026-10-17/new-chat/analyze_pcap.ps1"
+  },
+  {
+    "file": "decode_srtp.ps1",
+    "sha256": "7b3f5c2b8feeaf3ee19fd7df1dac3f3cce88f05c52089ee45853d128d1913d2b",
+    "bytes": 3153,
+    "source_archive_path": "2026-10-17/new-chat/decode_srtp.ps1"
+  },
+  {
+    "file": "decrypt_calls.ps1",
+    "sha256": "968067cf67f1594b179105da6e3ec68a1cafdee175800d9764b4602034bc08c7",
+    "bytes": 3284,
+    "source_archive_path": "2026-10-17/new-chat/decrypt_calls.ps1"
+  },
+  {
+    "file": "scan_tones.ps1",
+    "sha256": "9f308712185aebd419a992148ce576ae38fa0321ad43c0a2a15e6658c4a1db78",
+    "bytes": 1320,
+    "source_archive_path": "2026-10-17/new-chat/scan_tones.ps1"
+  },
+  {
+    "file": "solve_keypad.py",
+    "sha256": "fd17887e58de7b54aebb8e08c3a898d1b339a81dc9166693f8f746ca3820c8ea",
+    "bytes": 698,
+    "source_archive_path": "2026-10-17/new-chat/solve_keypad.py"
+  },
+  {
+    "file": "keypad/Keypad-Oracle.app/KeypadConfig.json",
+    "sha256": "5d9445a253b51e2f8ba9239b5e7b0188e9e03309483151f93ad3f64721d999c5",
+    "bytes": 690,
+    "source_archive_path": "2026-10-17/new-chat/keypad/Keypad-Oracle.app/KeypadConfig.json"
+  }
+]

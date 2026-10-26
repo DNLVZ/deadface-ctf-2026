@@ -1,0 +1,6 @@
+$src=@'
+using System;using System.IO;using System.Text;
+public class Tones {static int Mu(byte a){int v=(~a)&255;int t=((v&15)<<3)+132;t<<=(v&112)>>4;return(v&128)!=0?132-t:t-132;}public static void Run(string folder){int[]freq={697,770,852,941,1209,1336,1477,1633};string chars="123A456B789C*0#D";foreach(var file in Directory.GetFiles(folder,"*.ulaw")){var b=File.ReadAllBytes(file);var result=new StringBuilder();int last=-1,run=0;double maxratio=0;for(int start=0;start+200<=b.Length;start+=200){double e=0;for(int z=0;z<200;z++){double s=Mu(b[start+z]);e+=s*s;}double[] pow=new double[8];for(int f=0;f<8;f++){double coeff=2*Math.Cos(2*Math.PI*freq[f]/8000),q1=0,q2=0;for(int z=0;z<200;z++){double q=Mu(b[start+z])+coeff*q1-q2;q2=q1;q1=q;}pow[f]=q1*q1+q2*q2-coeff*q1*q2;}int r=0,c=4;for(int z=1;z<4;z++)if(pow[z]>pow[r])r=z;for(int z=5;z<8;z++)if(pow[z]>pow[c])c=z;double ratio=(pow[r]+pow[c])/(200*e+1);maxratio=Math.Max(maxratio,ratio);int tone=ratio>0.32&&pow[r]>pow[c]*0.1&&pow[c]>pow[r]*0.1?r*4+c-4:-1;if(tone==last)run++;else{if(last>=0&&run>=2)result.Append(chars[last]);last=tone;run=1;}}if(last>=0&&run>=2)result.Append(chars[last]);Console.WriteLine(Path.GetFileName(file)+" ratio="+maxratio.ToString("F2")+" tones="+result);}}}
+'@
+Add-Type -TypeDefinition $src
+[Tones]::Run((Join-Path $PWD 'call_audio'))
