@@ -2,7 +2,7 @@
 
 [Inicio](../../README.md) · [Ejemplos reconstruidos](../README.md)
 
-Estos archivos se recuperaron del respaldo de las sesiones del 17 de octubre de 2026. Los diez scripts se conservan **sin modificar sus bytes**. Son herramientas puntuales de investigación del CTF, con supuestos sobre nombres, formatos y directorio de trabajo.
+Estos archivos se recuperaron del respaldo de las sesiones del 17 y 18 de octubre de 2026. Los diez scripts se conservan **sin modificar sus bytes**. Son herramientas puntuales de investigación del CTF, con supuestos sobre nombres, formatos y directorio de trabajo.
 
 | Archivo | Función | Entrada necesaria |
 | --- | --- | --- |
