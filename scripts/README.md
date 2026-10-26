@@ -22,6 +22,6 @@ Los fragmentos de otros writeups pueden necesitar archivos del reto, valores rec
 
 ## Scripts históricos recuperados
 
-Se incluyen [cinco originales y su inventario](originales/README.md), conservados sin cambios. Se recuperaron selectivamente como archivos de texto de las partes 001 y 002 del respaldo. La parte 003, marcada como infectada por Drive, no se descargó.
+Se incluyen [diez originales y su inventario](originales/README.md), conservados sin cambios. Se recuperaron selectivamente como archivos de texto después de verificar las tres partes del respaldo y el SHA-256 del archivo completo. También está incluida la configuración JSON necesaria para Keypad Oracle.
 
-El original de Keypad Oracle y su configuración se ejecutaron localmente: el PIN `3719` produjo `deadface{your-pin-is-valid}`. Los cuatro scripts de tráfico se revisaron y se comprobaron sintácticamente, pero no se ejecutó de nuevo su cadena completa con PCAP y secretos de sesión.
+El original de Keypad Oracle y su configuración se ejecutaron localmente: el PIN `3719` produjo `deadface{your-pin-is-valid}`. Los cuatro scripts de tráfico y el escáner PowerShell de memoria se revisaron y se comprobaron sintácticamente. Los cinco scripts Python se analizaron sintácticamente y `decode_hips.py` se ejecutó sobre sus constantes incluidas. No se ejecutó de nuevo la cadena completa de tráfico con PCAP y secretos de sesión ni los análisis que requieren APK o un volcado de memoria.
