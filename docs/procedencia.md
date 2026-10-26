@@ -20,6 +20,10 @@ Se adjuntan la [bitácora original en PDF](bitacora-tecnica.pdf), la imagen orig
 
 El PDF se conserva sin modificar y contiene una referencia al respaldo privado. Sus permisos de acceso no se han cambiado. No se distribuyen sesiones completas, volcados de memoria, paquetes de herramientas ni ejecutables de los retos.
 
+## Actualización del 26 de octubre de 2026
+
+Se añadieron el [certificado original First Blood de Exfiltration](certificado-first-blood-exfiltration.pdf), su insignia y el [registro de verificación consultada](first-blood-exfiltration.md), a partir de la credencial de Cyber Hacktics en Credforge y su notificación del 25 de octubre. La fecha del reconocimiento es el 17 de octubre. La bitácora PDF y los estados históricos de las fichas se conservan.
+
 ## Referencias técnicas del documento original
 
 Estas referencias permiten estudiar los formatos; no son pruebas de resolución de un reto.

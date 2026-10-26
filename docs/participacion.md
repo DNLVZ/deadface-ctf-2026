@@ -14,6 +14,12 @@ La publicación no incluye una nueva validación criptográfica de la credencial
 
 Al terminar relaté haber quedado dentro del top 200. La bitácora no contiene una captura del puesto exacto, el puntaje ni el total de equipos, por lo que este repositorio no utiliza esa referencia como una clasificación oficial verificada.
 
+## Reconocimiento First Blood
+
+Cyber Hacktics también me otorgó **DEADFACE CTF 2026 First Blood** por **Exfiltration**, con fecha del 17 de octubre de 2026. El correo de notificación llegó el 25 de octubre. La credencial identifica al destinatario como **jesusd.vb (R00tless): Exfiltration** y reconoce la primera resolución del reto por un competidor o equipo, según la plataforma oficial.
+
+El [detalle del reconocimiento](first-blood-exfiltration.md) incluye el certificado original y la verificación consultada en Credforge. Esta distinción corresponde al reto; no establece una posición general del evento.
+
 ## Reflexión
 
 Cambiar entre criptografía, capturas de red, imágenes, aplicaciones y sistemas me obligó a prestar atención a qué estaba buscando realmente. En varios casos, la diferencia estuvo en el campo correcto o en el orden de los fragmentos.
