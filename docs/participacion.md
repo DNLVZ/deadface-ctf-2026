@@ -4,7 +4,7 @@
 
 Participé individualmente en DEADFACE CTF 2026 con el alias **jesusd.vb**. Fue mi primer CTF. Mi objetivo principal fue aprender a investigar retos de áreas distintas y guardar un recorrido que pudiera explicar después.
 
-La bitácora conserva la referencia a una credencial **DEADFACE CTF 2026 Competitor**, emitida por Cyber Hacktics, con fecha inicial del 18 de octubre de 2026. Su criterio es la participación activa; no certifica una cantidad específica de soluciones ni una competencia profesional independiente. La imagen original de la insignia se conserva en este repositorio. El certificado individual en PDF no está adjunto.
+La bitácora conserva la referencia a una credencial **DEADFACE CTF 2026 Competitor**, emitida por Cyber Hacktics, con fecha inicial del 18 de octubre de 2026. Su criterio es la participación activa; no certifica una cantidad específica de soluciones ni una competencia profesional independiente. Se conservan la imagen original de la insignia y el [certificado individual en PDF](certificado-deadface-2026.pdf). El SHA-256 del certificado coincide con el inventario de la bitácora: `f6f965361be4db2df148da7874902ec41799f499b4310faf8699c28195f6cef2`.
 
 <p align="center"><img src="../assets/deadface-2026-competitor.png" alt="Insignia DEADFACE CTF 2026 Competitor" width="260"></p>
 
